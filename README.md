@@ -18,7 +18,7 @@
 8. **Конец**
 
 ### Блок-схема
-<img width="379" height="762" alt="Блок-схема" src="ССЫЛКА_НА_ТВОЮ_БЛОК_СХЕМУ" />
+<img width="350" height="550" alt="Диаграмма4drawio drawio" src="https://github.com/user-attachments/assets/a4233ee7-857a-4573-81d0-5ddcdc42a5fd" />
 
 ## 2. Реализация программы
 
@@ -51,11 +51,11 @@ int main()
 ## 3. Результаты работы программы
 Пример 1: Партия принята (все веса кратны 7)
 
-<img width="716" height="132" alt="image" src="https://github.com/user-attachments/assets/2f691ae5-ec71-49c3-bf75-fcddcf96a138" />
+<img width="358" height="66" alt="image" src="https://github.com/user-attachments/assets/2f691ae5-ec71-49c3-bf75-fcddcf96a138" />
 
 Пример 2: Партия отклонена (один из весов не кратен 7)
 
-<img width="653" height="145" alt="image" src="https://github.com/user-attachments/assets/cb6744d2-7f20-4b50-b4a6-92298ff8c990" />
+<img width="326" height="72" alt="image" src="https://github.com/user-attachments/assets/cb6744d2-7f20-4b50-b4a6-92298ff8c990" />
 
 ## 4. Информация о разработчике
 Носырева Элла
