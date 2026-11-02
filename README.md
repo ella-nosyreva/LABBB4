@@ -18,35 +18,11 @@
 8. **Конец**
 
 ### Блок-схема
+
 <img width="350" height="550" alt="Диаграмма4drawio drawio" src="https://github.com/user-attachments/assets/a4233ee7-857a-4573-81d0-5ddcdc42a5fd" />
 
 ## 2. Реализация программы
-Source.c
-```c
-#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
-#include <stdlib.h>
-#include <locale.h>
-
-int main() 
-{
-    setlocale(LC_ALL, "Russian");
-
-    int a, b, c;
-    int condition;
-
-    printf("=== КОНТРОЛЬ КАЧЕСТВА ИГРУШЕК ===\n");
-    printf("Введите вес трех игрушек (A, B, C) в граммах: ");
-
-    scanf("%d %d %d", &a, &b, &c);
-
-    condition = (a % 7 == 0) && (b % 7 == 0) && (c % 7 == 0);
-
-    printf("Партия принята (1 - да, 0 - нет): %d\n", condition);
-
-    return 0;
-}
-```
+Исходный код программы: [Source.c](Source.c)
 
 ## 3. Результаты работы программы
 Пример 1: Партия принята (все веса кратны 7)
