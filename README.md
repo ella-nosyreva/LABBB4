@@ -21,7 +21,7 @@
 <img width="350" height="550" alt="Диаграмма4drawio drawio" src="https://github.com/user-attachments/assets/a4233ee7-857a-4573-81d0-5ddcdc42a5fd" />
 
 ## 2. Реализация программы
-
+Source.c
 ```c
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
